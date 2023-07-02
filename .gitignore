@@ -1,0 +1,30 @@
+# Front-end build output
+/build
+/dist
+
+# Node.js dependencies
+/node_modules
+
+# Back-end build output (if applicable)
+/out
+/target
+
+# Environment variables
+.env
+
+# IDE and editor files
+.idea/
+.vscode/
+*.sublime-*
+
+# Logs
+/logs
+*.log
+
+# Testing and coverage reports
+/coverage
+/.nyc_output
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
